@@ -104,6 +104,8 @@ La mappa si apre nel browser al termine del calcolo.
 Il sistema è stato testato su diverse rotte (es. Parigi → Bruxelles, Roma → Tokyo)  
 I percorsi generati sono coerenti con la rete dei voli, e la penalizzazione per gli scali funziona correttamente.
 
+![Demo](./demo.gif)
+
 ---
 
 ## 🔧 Estensioni possibili
