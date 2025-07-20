@@ -6,7 +6,7 @@
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-**Progetto per il corso di Intelligenza Artificiale – Università degli Studi di Napoli Federico II**  
+**Progetto per il Corso di Intelligenza Artificiale – Università degli Studi di Napoli Federico II**  
 _Antonio Marco Vanacore – Chiara Improta_  
 _A.A. 2024/2025 – Prof. Giancarlo Sperlì_
 
