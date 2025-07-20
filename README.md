@@ -1,4 +1,6 @@
-![Logo](./logo.jng)
+<p align="center">
+  <img src="./logo.jng" width="150"/>
+</p>
 
 # ✈️ volA*i 
 
