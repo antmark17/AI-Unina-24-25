@@ -42,6 +42,7 @@ Il sistema penalizza automaticamente i percorsi con scali, preferendo voli diret
 ├── motore_astar.py       # Logica A* e parsing dataset
 ├── voli.pl               # Dataset in stile Prolog
 ├── volAI.pdf             # Tesina descrittiva completa
+└── requirements.txt      # Requisiti da installare
 └── README.md             # Questo file
 ```
 
@@ -50,12 +51,12 @@ Il sistema penalizza automaticamente i percorsi con scali, preferendo voli diret
 ## 🖥️ Requisiti
 
 - Python 3.8+
-- Librerie: `networkx`, `folium`, `tkinter` (già incluso), `webbrowser`, `re`
+- Librerie specificate nel file requirements.txt
 
 Installa i moduli richiesti:
 
 ```bash
-pip install networkx folium
+pip install -r requirements.txt
 ```
 
 ---
