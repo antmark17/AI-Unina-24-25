@@ -124,4 +124,4 @@ I percorsi generati sono coerenti con la rete dei voli, e la penalizzazione per 
 ## 📄 Licenza
 
 Distribuito per scopi didattici.  
-© 2024 Antonio Marco Vanacore, Chiara Improta – Università degli Studi di Napoli Federico II.
+© 2025 Antonio Marco Vanacore, Chiara Improta – Università degli Studi di Napoli Federico II.
