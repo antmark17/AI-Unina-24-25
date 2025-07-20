@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.jng" width="150"/>
+  <img src="./logo.jpg" width="150"/>
 </p>
 
 # ✈️ volA*i 
